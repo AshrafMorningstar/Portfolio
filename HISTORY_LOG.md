@@ -1,1 +1,1 @@
-Last Update: 2021-01-05T09:00:00Z - feat: Initial project setup
+Last Update: 2021-01-14T14:00:00Z - feat(about): Basic AboutMe component structure
